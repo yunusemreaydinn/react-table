@@ -1,0 +1,19 @@
+:root{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+th {
+  padding: 15px;
+  border-bottom: 1px solid lightgray;
+}
+
+td {
+  padding: 10px 50px;
+  text-align: center;
+  box-shadow: 2px 2px lightgray;
+}
